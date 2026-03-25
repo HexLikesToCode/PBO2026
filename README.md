@@ -9,7 +9,6 @@ Several purposes of this Repository include:
 3. To research deeper regarding its relations for modern innovation.
 
 **Current Project:**
-- DailyApps Project and NICE.EAT Application.
-
+- DailyApps Project and NICE.EAT Application. <br></br>
 
 Thank you for reading.
