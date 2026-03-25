@@ -8,7 +8,7 @@ Several purposes of this Repository include:
 2. To understand why it is important.
 3. To research deeper regarding its relations for modern innovation.
 
-Current Project:
+Current Project: <br></br>
 DailyApps Project and NICE.EAT Application.
 
 Thank you for reading.
